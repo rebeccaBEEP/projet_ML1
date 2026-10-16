@@ -1,0 +1,11 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.ipynb_checkpoints
+.pytest_cache
+models
+rapport
+projet_vin.ipynb
+tests
